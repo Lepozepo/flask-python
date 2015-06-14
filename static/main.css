@@ -1,0 +1,12 @@
+/* Modifying the source would be more effective using LESS to avoid using !important but for the sake of example I think this is ok */
+input, textarea, .btn, .list-group-item {
+	border-radius: 0px !important;
+	-webkit-border-radius: 0px !important;
+	box-shadow:none !important;
+	-webkit-box-shadow:none !important;
+}
+
+textarea {
+	resize:vertical;
+}
+

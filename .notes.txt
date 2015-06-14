@@ -1,0 +1,5 @@
+# To activate flask run from the project directory
+. venv/bin/activate
+
+# Then run
+python init.py (file containing app.run())
