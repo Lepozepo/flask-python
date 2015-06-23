@@ -3,3 +3,13 @@
 
 # Then run
 python init.py (file containing app.run())
+
+# Relevant Videos
+https://www.youtube.com/watch?v=FGrIyBDQLPg
+https://www.youtube.com/watch?v=C3MUfsQsTDk
+
+# Compile LESS
+## Bootstrap
+lessc bootstrap.less ../../bootstrap-less.css
+
+
