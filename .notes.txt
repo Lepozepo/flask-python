@@ -4,6 +4,9 @@
 # Then run
 python init.py (file containing app.run())
 
+# Run this to make sure you can install everything
+sudo chmod -R 777 /Library/Python
+
 # Relevant Videos
 https://www.youtube.com/watch?v=FGrIyBDQLPg
 https://www.youtube.com/watch?v=C3MUfsQsTDk
