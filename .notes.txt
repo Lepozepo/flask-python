@@ -11,6 +11,14 @@ sudo chmod -R 777 /Library/Python
 https://www.youtube.com/watch?v=FGrIyBDQLPg
 https://www.youtube.com/watch?v=C3MUfsQsTDk
 
+# SQL commands
+mysql.server start
+mysql.server stop
+
+# Used for custom compilers
+https://github.com/imiric/flask-sass
+
+
 # Compile LESS
 ## Bootstrap
 lessc bootstrap.less ../../bootstrap-less.css

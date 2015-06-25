@@ -1,0 +1,56 @@
+/*!
+ * templates/global/_Bootstrap v3.3.5 (http://gettemplates/global/_bootstrap.com)
+ * Copyright 2011-2015 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/templates/global/_bootstrap/blob/master/LICENSE)
+ */
+
+// Core variables and mixins
+@import "templates/global/_bootstrap_variables";
+@import "templates/global/_bootstrap/mixins";
+
+// Reset and dependencies
+@import "templates/global/_bootstrap/normalize";
+@import "templates/global/_bootstrap/print";
+@import "templates/global/_bootstrap/glyphicons";
+
+// Core CSS
+@import "templates/global/_bootstrap/scaffolding";
+@import "templates/global/_bootstrap/type";
+@import "templates/global/_bootstrap/code";
+@import "templates/global/_bootstrap/grid";
+@import "templates/global/_bootstrap/tables";
+@import "templates/global/_bootstrap/forms";
+@import "templates/global/_bootstrap/buttons";
+
+// Components
+@import "templates/global/_bootstrap/component-animations";
+@import "templates/global/_bootstrap/dropdowns";
+@import "templates/global/_bootstrap/button-groups";
+@import "templates/global/_bootstrap/input-groups";
+@import "templates/global/_bootstrap/navs";
+@import "templates/global/_bootstrap/navbar";
+@import "templates/global/_bootstrap/breadcrumbs";
+@import "templates/global/_bootstrap/pagination";
+@import "templates/global/_bootstrap/pager";
+@import "templates/global/_bootstrap/labels";
+@import "templates/global/_bootstrap/badges";
+@import "templates/global/_bootstrap/jumbotron";
+@import "templates/global/_bootstrap/thumbnails";
+@import "templates/global/_bootstrap/alerts";
+@import "templates/global/_bootstrap/progress-bars";
+@import "templates/global/_bootstrap/media";
+@import "templates/global/_bootstrap/list-group";
+@import "templates/global/_bootstrap/panels";
+@import "templates/global/_bootstrap/responsive-embed";
+@import "templates/global/_bootstrap/wells";
+@import "templates/global/_bootstrap/close";
+
+// Components w/ JavaScript
+@import "templates/global/_bootstrap/modals";
+@import "templates/global/_bootstrap/tooltip";
+@import "templates/global/_bootstrap/popovers";
+@import "templates/global/_bootstrap/carousel";
+
+// Utility classes
+@import "templates/global/_bootstrap/utilities";
+@import "templates/global/_bootstrap/responsive-utilities";

@@ -1,0 +1,8 @@
+input, textarea, .btn, .list-group-item {
+  border-radius: 0px !important;
+  -webkit-border-radius: 0px !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important; }
+
+  textarea {
+    resize: vertical; }
